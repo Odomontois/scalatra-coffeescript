@@ -6,6 +6,6 @@
     >
 
   <group name="scripts">
-    <js>/coffee/*.coffee</js>
+    <js>\coffee\*.coffee</js>
   </group>
 </groups>
